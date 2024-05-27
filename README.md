@@ -1,7 +1,7 @@
 # DONJON Philippines
 https://donjoncomph.github.io/
 
-## Portfolio Page
+## Portfolio
 - Rich Media Banners
 
 ## Templates
